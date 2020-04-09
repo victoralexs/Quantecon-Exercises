@@ -1,2 +1,2 @@
 # Quantecon-Exercises
-Introdutory Quantecon Exercises - Markov Chain and VFI (Cake Model)
+Introdutory Quantecon Exercises - Markov Chain, Valye Function Iteraction and others.
